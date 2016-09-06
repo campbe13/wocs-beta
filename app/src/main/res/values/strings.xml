@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Women of Computer Science</string>
+    <string name="app_name">WoCS</string>
+    <string name="title_activity_about">About WoCS</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="byname">Name</string>
+    <string name="byyear">Year</string>
+    <string name="msg1">Women of Computer Science App</string>
+    <string name="msg2">This app will show you celebrities of computer science.  You can search by year, by name (like).  When you see the image if you click on it you will get BIO info for that person.</string>
+    <string name="msg3">P.M.Campbell CC:BYNCSA</string>
+
+</resources>
